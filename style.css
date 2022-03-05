@@ -6,7 +6,26 @@ body {
 
 
 .sidebar {
-    background-color: aqua;
+    background-color: rgb(107, 146, 146);
+    
+}
+
+.navg a {
+    text-decoration: none;
+}
+
+.navg a:hover {
+    color: beige;
+}
+
+.navg:hover {
+    background-color: rgb(218, 131, 131);
+    
+}
+
+.sideLinks {
+    color: white;
+   
 }
 
 .headline {
@@ -22,3 +41,11 @@ body {
     color:rgb(65, 63, 63);
 }
 
+.faq {
+    background-color: rgb(224, 224, 224);
+}
+
+.home {
+    background-color: rgb(218, 131, 131);
+    border-radius: 2px;
+}

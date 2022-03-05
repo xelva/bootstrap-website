@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Press+Start+2P&display=swap');
+
+body {
+    background-color: black;
+}
+
+
+.sidebar {
+    background-color: aqua;
+}
+
+.headline {
+    color: rgb(255, 187, 0);
+    font-family: 'Lora', serif;
+}
+
+.subheadline {
+    font-family: 'Lora', serif;
+}
+
+.item-pix h6 {
+    color:rgb(65, 63, 63);
+}
+
